@@ -7,3 +7,5 @@ Learn how to deploy applications to AWS through Pulumi.
 - Bootstrap the project (all defaults accepted)
 
 > pulumi new aws-typescript
+
+- Add code from page 17.
