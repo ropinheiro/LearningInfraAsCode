@@ -8,4 +8,6 @@ Learn how to deploy applications to AWS through Pulumi.
 
 > pulumi new aws-typescript
 
-- Add code from page 17.
+- Add code from page 17: new bit bucket object with inline HTML.
+  
+- Add code from page 18: read HTML contents from a file instead.
